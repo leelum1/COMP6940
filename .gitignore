@@ -2,4 +2,3 @@ metastore_db/
 spark-warehouse/
 *.log
 *.ipynb_checkpoints/
-Assignment4/
